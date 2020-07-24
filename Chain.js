@@ -21,6 +21,5 @@ class Chain{
     }
     fly(){
     this.chain.bodyA = null
-
 }
 }
